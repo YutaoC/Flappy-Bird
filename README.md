@@ -1,5 +1,5 @@
 # FlappyBird
-By Yutao Chen
+By Yutao Chen  |  More Details on My Website: https://yutaoc.github.io/YutaoChen/projects/2019/03/21/Flappy-Bird.html
 
 # Have
 - basic game experience
